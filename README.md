@@ -2,7 +2,7 @@
 
 [![01.png](https://i.postimg.cc/0N2qGFQ5/01.png)](https://postimg.cc/DSDDnCLR)
 
-## ¿Qué te motivó?
+## ¿Qué me motivó?
 Hola a tod@s! Desarrollé la aplicación partiendo de los siguientes objetivos:
 
 1. Repasar y poner a prueba mis conocimientos en desarrollo web frontend.
