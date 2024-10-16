@@ -1,0 +1,116 @@
+@font-face {    
+    font-family: "Poppins";
+    src: url("./recursos/fuentes/Poppins-Regular.ttf");
+}
+
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    font-family: "Poppins";
+    background-color: rgba(0, 0, 0, 0.904);
+}
+
+.color-app {
+    background-color: rgb(48, 51, 59);
+}
+
+.color-textos {
+    color: rgb(255, 255, 255);
+}
+
+#cabecera {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    padding-block: 2rem;
+}
+
+#cabecera  h1 {
+    font-size: 48px;
+}
+
+main {
+    margin: 0 auto;
+    max-width: 800px;
+    padding-top: 32px;
+    padding-bottom: 32px;
+    text-align: center;
+}
+
+#cabecera-entrada {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#texto {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px 0 0 4px;
+    outline: none;
+    width: 300px;
+    height: 50px;
+    font-family: inherit;
+    font-size: 14px;
+}
+  
+#texto:focus {
+    outline: none;
+}
+  
+#agregar {
+    border: 1px solid #ccc;
+    border-left: none;
+    border-radius: 0 4px 4px 0;
+    background-color: rgb(31, 83, 226);
+    color: white;
+    cursor: pointer;
+    font-family: inherit;
+    font-size: 16px;
+    height: 49.8px;
+    width: 50px;
+}
+
+#agregar:hover {
+    background-color: rgb(14, 185, 80);
+}
+
+#tabla {
+    margin-top: 2rem;
+    text-align: left;
+    border: 2px solid black;
+    border-radius: 14px;
+    padding: 5px 10px 80px;
+}
+
+#tabla h2 {
+    margin-bottom: 10px;
+    font-size: 28px;
+}
+
+#listado li {
+    list-style-type: none;
+    font-size: 20px;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.336);
+    padding: 20px;
+    word-wrap: break-word;
+}
+
+#listado li:hover {
+    cursor: pointer;
+    background-color:  rgba(65, 122, 168, 0.3);
+}
+
+#listado li span {
+    color: red;
+    font-weight: bold;
+}

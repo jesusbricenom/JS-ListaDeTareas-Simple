@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Todo App</title>
+
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width">
+
+        <link rel="stylesheet" type="text/css" href="estilos.css">
+    </head>
+    <body>
+      
+      <header id="cabecera" class="color-app color-textos">
+        <h1>TODO APP</h1>
+      </header>
+      
+      <main>
+        <section id="cabecera-entrada">
+          <form id="formulario" autocomplete="off">
+            <input id="texto" type="text" placeholder="Qué necesitas hacer?"/><button id="agregar">+</button>
+          </form>
+        </section>
+        <section id="tabla" class="color-app color-textos">
+          <h2>Lista de Tareas:</h2>
+          <ul id="listado">
+          </ul>
+        </section>
+      </main>
+      
+      <script src="js/app.js" type="module"></script>
+    </body>
+</html>
