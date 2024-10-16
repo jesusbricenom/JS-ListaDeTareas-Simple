@@ -1,7 +1,6 @@
 # Lista de Tareas Simple en JS
 
-[![01.png](https://i.postimg.cc/CxG2QNtZ/01.png)](https://postimg.cc/bZvLGQq8)
-[![02.png](https://i.postimg.cc/NF2J77mj/02.png)](https://postimg.cc/sGy43WTk)
+[![01.png](https://i.postimg.cc/0N2qGFQ5/01.png)](https://postimg.cc/DSDDnCLR)
 
 ## ¿Qué te motivó?
 Hola a tod@s! Desarrollé la aplicación partiendo de los siguientes objetivos:
