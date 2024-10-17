@@ -6,7 +6,7 @@
 Hola a tod@s! Desarrollé la aplicación web partiendo de los siguientes objetivos:
 
 1. Repasar y poner a prueba mis conocimientos en desarrollo frontend.
-2. Aportar mi grano de arena a esta comunidad.
+2. Aportar mi grano de arena a la comunidad.
 
 TODA la app la programé en español para aquellas personas que comienzan en esta disciplina y no saben o se les dificulta el inglés.
 
